@@ -12,18 +12,24 @@
 - Agora já no **ECLIPSE**, vamos **CONFIGURAR** o **WILDFLY** que já **BAIXAMOS** na nossa **IDE**.
 - Para isso, vamos ir em **SERVERS → CREATE NEW SERVER.**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dbfbe37-8951-441d-ad3a-799d338fb0bb/Untitled.png)
+    <p>
+        <img width="527" alt="1" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/5c22ff94-bcf7-4ffb-9ed5-0a9360a7e1b8">
+    </p>
 
 - Agora vamos **EXPANDIR** a **PASTA** do **“RED HAT JBOSS MIDDLEWARE”** e **SELECIONAR** a **“JBOSS AS, WILDFLY, & EAP SERVER TOOLS”**, e depois **CLICAR** em **“NEXT”**.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/482806e5-98e2-4a13-b0ba-0fd040afa6f6/Untitled.png)
+    <p>
+        <img width="409" alt="2" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/4716a822-a5d4-43f3-abff-7b4053d7a974">
+    </p>
 
 - Então agora irá **COMEÇAR** a **REALIZAR** o **DOWNLOAD** de **VÁRIOS RECURSOS**.
 - Depois de **INSTALADO** o **WILDFLY** e ter **RESTARTADO** o **ECLIPSE**, nós vamos **IR** em **SERVERS** novamente, e **CLICAR** em **“CREATE NEW SERVER”**.
 - Perceba que agora nós **JÁ TEMOS** as **VERSÕES** do **WILDFLY** que estão **DISPONÍVEIS** para **UTILIZARMOS**, vamos **CLICAR** na **VERSÃO** mais atualizada.
     - **OBS:****** Caso a **VERSÃO DESEJADA “NÃO ESTEJA LISTADA”**, não se preocupe, pois **PODEMOS CONFIGURAR MANUALMENTE** depois a **VERSÃO** que **BAIXAMOS** lá do **SITE** do **WILDFLY**.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/362c7b9e-ad2b-40ef-95ee-5ba70dfa97d5/Untitled.png)
+    <p>
+        <img width="359" alt="3" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/7372d177-9f82-43b1-a063-b30e772ee64d">
+    </p>
 
 - Perceba que **NÃO TEM** a **VERSÃO 26** que é a que **IREMOS UTILIZAR**, porém mesmo assim, no **SERVER NAME** nós **IREMOS ALTERAR** para o **NOME** da **VERSÃO DESEJADA**.
 - Depois **IREMOS** alterar novamente o nome no **RUNTIME**.
@@ -31,7 +37,9 @@
 - Depois **IREMOS CONFIGURAR** para ele **UTILIZAR** a **VERSÃO** do **JDK** da forma **CORRETA**, caso ele **ESTEJA** com uma **VERSÃO** que **NÃO É** a **DESEJADA**.
 - Ficará desta forma:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d53583f1-1d06-4d68-b816-1c23f6d175e1/Untitled.png)
+    <p>
+        <img width="462" alt="4" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/198fab7b-036a-405a-a51d-15d6e164f613">
+    </p>
 
 - Depois disso, vamos dar um **FINISH**.
 
@@ -68,6 +76,6 @@ C:/Program Files/Java/jdk-17.0.2/bin/javaw.exe
 -Xms256m
 -Xmx2048m
 --add-modules=ALL-SYSTEM
-**--add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED
---add-opens=java.base/java.security=ALL-UNNAMED**
+**--add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED**
+**--add-opens=java.base/java.security=ALL-UNNAMED**
 ```
