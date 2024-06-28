@@ -5,8 +5,9 @@
 ```
 ls /home
 ```
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c55025a2-68a2-4869-a759-4ebc7a9b0263/Untitled.png)
+  <p>
+    <img width="209" alt="1" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/f6752dac-772b-4e1a-aeaf-7eb383b7c66d">
+  </p>
 
 - Ou seja, o **NOME** do nosso **USUÁRIO** é **“sulimann”**.
 - Então **PARA ALTERAR** a **SENHA** nós **VAMOS INSERIR** o seguinte **COMANDO**:
@@ -16,5 +17,7 @@ passwd sulimann
 ```
 
 - E depois disso, nós **VAMOS INSERIR** a nossa **NOVA SENHA**.
+<p>
+  <img width="311" alt="2" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/e211ac9a-df2f-4d40-b931-21847c8da308">  
+</p>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b56936b-22b5-42c4-aa8d-4d29c8748ada/Untitled.png)
