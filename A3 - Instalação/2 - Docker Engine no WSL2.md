@@ -50,7 +50,9 @@ newgrp docker
 
 - Agora nós **VAMOS TESTAR** o **FUNCIONAMENTO** dando um **COMANDO** do **“DOCKER PS”**.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6e94f0b5-dae3-4632-8a03-6c1e0ce04c30/545749fb-9a52-44bf-9b48-ff268a2f1b0a/Untitled.png)
+  <p>
+    <img width="479" alt="1" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/d4904461-8e92-451f-83c3-403ef633bb4f">  
+  </p>
 
 - Então **DEU TUDO CERTO!**
 
