@@ -11,7 +11,9 @@ netstat -ano | findstr :<porta específica>
 
 - Então desta forma nós **CONSEGUIMOS VERIFICAR** se **EXISTE** alguma **APLICAÇÃO** que **ESTÁ RODANDO** nesta **PORTA ESPECÍFICA.**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a08f5e85-123e-4a0f-a091-03d37fbacaae/Untitled.png)
+  <p>
+    <img width="440" alt="1" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/4232cb7f-4303-4c63-a996-05730be2b5fe">  
+  </p>
 
 # 2 - REMOVER APLICAÇÃO MANUALMENTE
 
@@ -23,4 +25,7 @@ taskkill /PID 21008 /F
 
 - Então desta forma **IREMOS REMOVER** esta **APLICAÇÃO**.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42eaa050-4889-4d13-8b12-605aa221e1d5/Untitled.png)
+  <p>
+    <img width="275" alt="2" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/b88010a0-5d48-4dda-a042-82514c739db6">  
+  </p>
+
