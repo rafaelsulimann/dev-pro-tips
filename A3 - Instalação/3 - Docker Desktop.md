@@ -8,7 +8,9 @@
 
 - Depois nós **VAMOS CLICAR** na **OPÇÃO** do **WINDOWS**, conforme abaixo:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ebf60ef-ad42-4774-afd8-aa025118ce91/Untitled.png)
+  <p>
+    <img width="622" alt="1" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/8e44cd6e-f36e-4433-a35f-c32c3cda35a4">  
+  </p>
 
 - Após **BAIXADO**, nós **VAMOS EXECUTAR** o **ARQUIVO .EXE**, e basicamente **É** só nós **LICARMOS** em **“NEXT, CONFIRMAR, ETC..”** até a **FINALIZAÇÃO**.
 - Lembrando que, após a **INSTALAÇÃO**, para o **DOKCER** ele **CONSEGUIR FUNCIONAR**, nós **PRECISAMOS ESTAR** com o **WSL2 ATIVO** no nosso **PC**.
@@ -20,6 +22,8 @@ docker -v
 
 - Ficará assim:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2091863a-a521-44af-b067-93f7449c7748/Untitled.png)
+  <p>
+    <img width="556" alt="2" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/36219fad-3a88-4f0c-91a2-79437405ddd7">  
+  </p>
 
 - Então **DEU TUDO CERTO!**
