@@ -27,7 +27,9 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 https://dcomp.ufsj.edu.br/centro-de-recursos/tutoriais/93-wsl
 
 - Clicar no link da **ETAPA 4** em **pacote de atualização kernel linux** para então baixar a atualização do linux.
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6e94f0b5-dae3-4632-8a03-6c1e0ce04c30/299be789-0b71-4778-b1e2-794090117227/Untitled.png)
+    <p>
+        <img width="617" alt="1" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/8a5880d6-48bd-4b3c-aab0-3c4aa723f178">    
+    </p>
 - Após baixar, basta executar e instalar com as opções **default**.
 
 # 6 - MUDAR VERSÃO PARA WSL2
@@ -165,7 +167,9 @@ sudo nano ./.zshrc
 
 - Depois nós precisamos **ALTERAR** o **NOME** do **ZSH THEME** para **DRACULA**.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6e94f0b5-dae3-4632-8a03-6c1e0ce04c30/da6f4119-f5ac-489f-a5ae-a5d3bfc6fe84/Untitled.png)
+    <p>
+        <img width="482" alt="2" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/adf5f6cb-2b66-4d03-bdca-7f138b307fab">    
+    </p>
 
 - Para **SALVAR** as **ALTERAÇÕES**, nós **VAMOS APERTAR** o **“CTRL + X”**, dar um **YES**, depois **APERTAR DUAS VEZES** o **ENTER**.
 
@@ -229,5 +233,6 @@ zinit light zdharma/fast-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
 ```
+  <img width="480" alt="3" src="https://github.com/rafaelsulimann/dev-pro-tips/assets/97992737/39c97f1e-bcb4-4025-bb8b-ad2d1775d2fe">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6e94f0b5-dae3-4632-8a03-6c1e0ce04c30/17687e38-9d11-4d2e-a1f4-1803bde8ce36/Untitled.png)
+    
